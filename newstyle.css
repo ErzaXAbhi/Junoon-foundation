@@ -1544,8 +1544,8 @@ body {
   }
 }
 .footer__logo {
-  width: 15rem;
-  height: auto;
+  width: 10rem;
+  height: 10rem;
 }
 .footer__navigation {
   border-top: 1px solid #777;
