@@ -1217,8 +1217,8 @@ body {
 }
 
 .feature-box__image {
-  width: 50%;
-  height: 50%;
+  width: 30%;
+  height: 30%;
 }
 
 .form__group:not(:last-child) {
